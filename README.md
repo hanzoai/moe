@@ -38,7 +38,7 @@ These are the only two prerequisites needed to follow along with the blog.
 # Understanding Qwen 3 MoE Architecture
 
 ![Architecture Comparison](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*PcjAYwpn_px7U2Io6S4U8A.png)
-*Architecture Comparison (From [Sebastian Raschka](https://github.com/rasbt/LLMs-from-scratch))*
+Raschka, S. (2024). Build A Large Language Model (From Scratch), Published by Manning, ISBN 978-1633437166 [Computer software]. https://github.com/rasbt/LLMs-from-scratch
 
 Let’s first understand the Qwen MoE architecture as an intermediate techy person, and then use an example **“the cat sat”** to see how it goes through the architecture to get a clear understanding of it.
 
