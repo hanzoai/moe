@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Qwen 3 MoE implemented from scratch
+# Qwen3 MoE implemented from scratch
 
 [Qwen 3](https://qwenlm.github.io/blog/qwen3/) from [Alibaba](https://www.reuters.com/world/china/alibaba-launches-open-source-ai-coding-model-touted-its-most-advanced-date-2025-07-23/) is currently the best open-source model available, offering [state-of-the-art performance](https://lambda.ai/llm-benchmarks-leaderboard) across a wide range of tasks including reasoning, coding, math, and multilingual understanding. Its flagship version, Qwen3‑235B‑A22B, ranks at or near the top of key benchmarks like [MMLU-Pro](https://lambda.ai/llm-benchmarks-leaderboard?), [LiveCodeBench](https://www.datacamp.com/blog/qwen3), and AIME, often matching or exceeding the performance of leading proprietary models.
 
