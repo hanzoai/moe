@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="moe" width="880"></p>
+
 <!-- omit in toc -->
 # Qwen3 MoE implemented from scratch
 
