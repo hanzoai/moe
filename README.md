@@ -3,6 +3,8 @@
 <!-- omit in toc -->
 # Qwen3 MoE implemented from scratch
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/moe&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/moe&ref=main&action=edit)
+
 [Qwen 3](https://qwenlm.github.io/blog/qwen3/) from [Alibaba](https://www.reuters.com/world/china/alibaba-launches-open-source-ai-coding-model-touted-its-most-advanced-date-2025-07-23/) is currently the best open-source model available, offering [state-of-the-art performance](https://lambda.ai/llm-benchmarks-leaderboard) across a wide range of tasks including reasoning, coding, math, and multilingual understanding. Its flagship version, Qwen3‑235B‑A22B, ranks at or near the top of key benchmarks like [MMLU-Pro](https://lambda.ai/llm-benchmarks-leaderboard?), [LiveCodeBench](https://www.datacamp.com/blog/qwen3), and AIME, often matching or exceeding the performance of leading proprietary models.
 
 Built using a [Mixture-of-Experts (MoE)](https://arxiv.org/abs/2505.09388) architecture, Qwen 3 activates only a subset of its 235B parameters per query resulting in high efficiency without sacrificing quality. It also supports up to 128K-token contexts, handles [119 languages](https://arxiv.org/abs/2505.09388), and introduces dual “thinking” vs. “non-thinking” modes to balance deep reasoning with faster inference.
